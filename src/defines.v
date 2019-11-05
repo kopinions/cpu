@@ -1,0 +1,7 @@
+`define RST_ENABLE 1'b1
+`define RST_DISABLE 1'b0
+`define CHIP_ENABLE 1'b1
+`define CHIP_DISABLE 1'b0
+
+`define INST_ADDR_BUS 31:0
+`define ZERO_WORD 32'h00000000
